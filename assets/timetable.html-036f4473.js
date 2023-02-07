@@ -1,0 +1,1 @@
+import{_ as t,W as a,X as s,Y as e,Z as c}from"./framework-f89bf418.js";const r={},o=e("h1",{id:"timetables",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#timetables","aria-hidden":"true"},"#"),c(" Timetables")],-1),i=[o];function n(_,l){return a(),s("div",null,i)}const m=t(r,[["render",n],["__file","timetable.html.vue"]]);export{m as default};

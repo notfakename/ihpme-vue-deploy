@@ -1,0 +1,1 @@
+import{_ as a,W as s,X as t,Y as e,Z as r}from"./framework-f89bf418.js";const c={},d=e("h1",{id:"awards",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#awards","aria-hidden":"true"},"#"),r(" Awards")],-1),o=e("p",null,"see",-1),n=[d,o];function _(i,l){return s(),t("div",null,n)}const f=a(c,[["render",_],["__file","awards.html.vue"]]);export{f as default};

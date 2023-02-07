@@ -1,0 +1,1 @@
+import{_ as a,W as t,X as c,Y as e,Z as d}from"./framework-f89bf418.js";const n={},r=e("h1",{id:"advanced-features",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#advanced-features","aria-hidden":"true"},"#"),d(" Advanced Features")],-1),s=[r];function o(_,i){return t(),c("div",null,s)}const h=a(n,[["render",o],["__file","index.html.vue"]]);export{h as default};

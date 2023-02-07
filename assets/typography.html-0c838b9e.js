@@ -1,0 +1,1 @@
+import{_ as t,W as a,X as r,Y as e,Z as o}from"./framework-f89bf418.js";const c={},s=e("h1",{id:"typography",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#typography","aria-hidden":"true"},"#"),o(" Typography")],-1),n=[s];function _(h,p){return a(),r("div",null,n)}const i=t(c,[["render",_],["__file","typography.html.vue"]]);export{i as default};

@@ -1,0 +1,1 @@
+import{_ as a,W as s,X as t,Y as e,Z as c}from"./framework-f89bf418.js";const d={},r=e("h1",{id:"badges",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#badges","aria-hidden":"true"},"#"),c(" Badges")],-1),o=[r];function n(_,i){return s(),t("div",null,o)}const l=a(d,[["render",n],["__file","badges.html.vue"]]);export{l as default};

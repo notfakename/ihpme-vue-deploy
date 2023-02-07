@@ -1,0 +1,1 @@
+import{_ as s,W as o,X as r,Y as e,Z as c}from"./framework-f89bf418.js";const t={},a=e("h1",{id:"course-modules",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#course-modules","aria-hidden":"true"},"#"),c(" Course Modules")],-1),d=[a];function n(u,_){return o(),r("div",null,d)}const i=s(t,[["render",n],["__file","course-modules.html.vue"]]);export{i as default};
