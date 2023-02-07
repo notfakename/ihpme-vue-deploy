@@ -1,0 +1,1 @@
+import{_ as s,p as o,q as r,R as e,t}from"./framework-204010b2.js";const c={},a=e("h1",{id:"course-modules",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#course-modules","aria-hidden":"true"},"#"),t(" Course Modules")],-1),d=[a];function n(u,_){return o(),r("div",null,d)}const i=s(c,[["render",n],["__file","course-modules.html.vue"]]);export{i as default};

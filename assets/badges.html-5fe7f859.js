@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-91ca2e70","path":"/blocks/incomplete/badges.html","title":"Badges","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"blocks/incomplete/badges.md"}');export{e as data};
