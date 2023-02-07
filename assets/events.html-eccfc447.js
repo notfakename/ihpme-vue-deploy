@@ -1,0 +1,1 @@
+import{_ as t,V as s,W as n,X as e,Y as a}from"./framework-d2966dc5.js";const c={},o=e("h1",{id:"events",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#events","aria-hidden":"true"},"#"),a(" Events")],-1),r=e("p",null,"see",-1),_=[o,r];function d(i,l){return s(),n("div",null,_)}const f=t(c,[["render",d],["__file","events.html.vue"]]);export{f as default};

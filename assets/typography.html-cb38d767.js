@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2e1566ae","path":"/blocks/incomplete/typography.html","title":"Typography","lang":"en-US","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":"blocks/incomplete/typography.md"}');export{e as data};

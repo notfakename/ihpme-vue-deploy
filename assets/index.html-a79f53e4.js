@@ -1,0 +1,1 @@
+import{_ as a,V as t,W as c,X as e,Y as d}from"./framework-d2966dc5.js";const n={},r=e("h1",{id:"advanced-features",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#advanced-features","aria-hidden":"true"},"#"),d(" Advanced Features")],-1),s=[r];function o(_,i){return t(),c("div",null,s)}const h=a(n,[["render",o],["__file","index.html.vue"]]);export{h as default};
