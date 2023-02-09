@@ -1,1 +1,0 @@
-import{_ as t,V as i,W as s,X as e,Y as a}from"./framework-d2966dc5.js";const n={},c=e("h1",{id:"initiatives",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#initiatives","aria-hidden":"true"},"#"),a(" Initiatives")],-1),o=e("p",null,"see",-1),r=[c,o];function _(d,l){return i(),s("div",null,r)}const f=t(n,[["render",_],["__file","initiatives.html.vue"]]);export{f as default};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-1057c391","path":"/advanced-features/reusable-blocks.html","title":"Reusable Blocks","lang":"en-US","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":15},"filePathRelative":"advanced-features/reusable-blocks.md"}');export{e as data};

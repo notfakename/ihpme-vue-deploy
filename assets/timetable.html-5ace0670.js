@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-d368cc0e","path":"/getting-started/incomplete/timetable.html","title":"Timetable","lang":"en-US","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.01,"words":2},"filePathRelative":"getting-started/incomplete/timetable.md"}');export{e as data};

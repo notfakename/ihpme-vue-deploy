@@ -1,1 +1,0 @@
-import{_ as t,V as a,W as r,X as e,Y as o}from"./framework-d2966dc5.js";const c={},s=e("h1",{id:"typography",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#typography","aria-hidden":"true"},"#"),o(" Typography")],-1),n=[s];function _(h,p){return a(),r("div",null,n)}const i=t(c,[["render",_],["__file","typography.html.vue"]]);export{i as default};
