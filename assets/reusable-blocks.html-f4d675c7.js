@@ -1,1 +1,0 @@
-import{_ as e,W as s,X as c,Y as o}from"./framework-f89bf418.js";const t={},l=o("p",null,"Reusable Blocks see",-1),_=[l];function a(n,r){return s(),c("div",null,_)}const d=e(t,[["render",a],["__file","reusable-blocks.html.vue"]]);export{d as default};
