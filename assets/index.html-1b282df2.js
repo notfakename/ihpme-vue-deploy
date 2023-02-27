@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-05fe7431","path":"/advanced-features/incomplete/","title":"Incomplete","lang":"en-US","frontmatter":{"title":"Incomplete","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
